@@ -1,16 +1,46 @@
-## Hi there 👋
+CUSTOM AUTOMATIONS FOR WINDOWS OS
 
-<!--
-**GyakkyoGyaku/GyakkyoGyaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+Core Technologies :
+  - API integration
+  - Data Processing
+  - Regex
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+ Languages :
+  - Python
+  - C++
+  - Powershell
+
+ #
+
+ Platforms :
+ - Telegram Bot API
+ - Mailjet API
+ - Custom solutions
+
+#
+
+About Me :
+
+I'm a Self-Made Data Automation Developer.
+
+My past-life was empty.
+
+So, I choose to reborn, like a Karp doing the Gyakkyo Gyaku path to Evolve itself.
+
+My name means :
+
+Transforming adversity into your advantage.
+
+#
+
+All my Works are for now private :
+
+In the Future, i want to share it and this is in progress.
+
+#
+
+Thank You if You read this File! ❤️
