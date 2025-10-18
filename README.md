@@ -29,7 +29,7 @@ I'm a Self-Made Data Automation Developer.
 
 My past-life was empty.
 
-So, I choose to reborn, like a Karp doing the Gyakkyo Gyaku path to Evolve itself.
+So I choose to reborn, like a Karp doing the Gyakkyo Gyaku path to Evolve itself.
 
 My name means :
 
@@ -43,4 +43,4 @@ In the Future, i want to share it and this is in progress.
 
 #
 
-Thank You if You read this File! ❤️
+Thank You for reading this File! ❤️
