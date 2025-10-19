@@ -41,6 +41,3 @@ All my Works are for now private :
 
 In the Future, i want to share it and this is in progress.
 
-#
-
-Thank You for reading this File! ❤️
