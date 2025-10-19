@@ -25,7 +25,7 @@ Core Technologies :
 
 About Me :
 
-I'm a Self-Made Data Automation Developer.
+I'm a Self-Made Developer.
 
 My past-life was empty.
 
