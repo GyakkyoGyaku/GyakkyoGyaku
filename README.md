@@ -19,7 +19,7 @@ Core Technologies :
  Platforms :
  - Telegram Bot API
  - Mailjet API
- - Custom solutions
+ - LotL Techniques
 
 #
 
