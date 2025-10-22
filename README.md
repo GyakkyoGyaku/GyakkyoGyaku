@@ -37,7 +37,11 @@ Transforming adversity into your advantage.
 
 #
 
-All my Works are for now private :
+Contacts:
 
-In the Future, i want to share it and this is in progress.
+You can contact me using my interactive Bot on Telegram.
+
+@contactgyakubot
+
+(Link in Bio)
 
