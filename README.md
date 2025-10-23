@@ -6,6 +6,7 @@ Core Technologies :
   - API integration
   - Data Processing
   - Regex
+  - LotL Techniques
 
 #
 
@@ -13,13 +14,6 @@ Core Technologies :
   - Python
   - C++
   - Powershell
-
- #
-
- Platforms :
- - Telegram Bot API
- - Mailjet API
- - LotL Techniques
 
 #
 
