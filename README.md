@@ -28,14 +28,3 @@ So I choose to reborn, like a Karp doing the Gyakkyo Gyaku path to Evolve itself
 My name means :
 
 Transforming adversity into your advantage.
-
-#
-
-Contacts:
-
-You can contact me using my interactive Bot on Telegram.
-
-@contactgyakubot
-
-(Link in Bio)
-
