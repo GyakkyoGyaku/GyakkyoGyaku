@@ -23,7 +23,9 @@ I'm a Self-Made Developer.
 
 My past-life was empty.
 
-So I choose to reborn, like a Karp doing the Gyakkyo Gyaku path to Evolve itself.
+So I choose to reborn, like a Karp 
+
+doing the Gyakkyo Gyaku path to Evolve itself.
 
 My name means :
 
