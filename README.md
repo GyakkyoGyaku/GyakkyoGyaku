@@ -13,7 +13,7 @@ Core Technologies :
  Languages :
   - Python
   - C++
-  - Powershell
+  - PowerShell
 
 #
 
