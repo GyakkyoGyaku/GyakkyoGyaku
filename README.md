@@ -2,15 +2,11 @@ CUSTOM AUTOMATIONS FOR WINDOWS OS
 
 #
 
-Core Technologies :
   - API integration
-  - Data Processing
-  - Regex
   - LotL Techniques
 
 #
 
- Languages :
   - Python
   - C++
   - PowerShell
@@ -23,10 +19,6 @@ I'm a Self-Made Developer.
 
 My past-life was empty.
 
-So I choose to reborn, like a Karp 
+So I choose to reborn
+and evolve myself.
 
-doing the Gyakkyo Gyaku path to Evolve itself.
-
-My name means :
-
-Transforming adversity into your advantage.
