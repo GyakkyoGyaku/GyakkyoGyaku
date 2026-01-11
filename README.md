@@ -13,8 +13,6 @@ CUSTOM AUTOMATIONS FOR WINDOWS OS
 
 #
 
-About Me :
-
 I'm a Self-Made Developer.
 
 My past-life was empty.
